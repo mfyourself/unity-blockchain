@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mahjong_Auth.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Mahjong_Lobby.unity
+    guid: dfcbd88bb3ac4bb438363beef1124ea1
+  - enabled: 1
+    path: Assets/Scenes/MahJong_Room.unity
+    guid: ca58ca21ac43ae54fbcc8d9191269fd3
+  - enabled: 1
+    path: Assets/Scenes/MahJong_Game.unity
+    guid: 4e06819f5571efc4ab5daee80975fd1c
+  m_configObjects: {}

@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 05df04aee1cac4b4583dcee614ec43e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AT_CoreLid
+    100002: AT_Innerparts
+    100004: AT_InnerSpace
+    100006: AutoTable
+    100008: Button1
+    100010: Button2
+    100012: Button3
+    100014: Button4
+    100016: Center1
+    100018: Center2
+    100020: Center3
+    100022: Center4
+    100024: CircleButton1
+    100026: CircleButton2
+    100028: Contaier3
+    100030: Container1
+    100032: Container1 1
+    100034: Container2
+    100036: Container2 1
+    100038: Container3
+    100040: Container4
+    100042: Container4 1
+    100044: Cube.004
+    100046: Cube.005
+    100048: Cube.006
+    100050: Cube.007
+    100052: Cube.008
+    100054: Cube.010
+    100056: Cube.019
+    100058: Cube.020
+    100060: Cube.022
+    100062: Cube.024
+    100064: Cube.025
+    100066: Cube.026
+    100068: Cube.028
+    100070: Cube.033
+    100072: Cube.035
+    100074: ExtendedGameButton
+    100076: Hand1
+    100078: Hand2
+    100080: Hand3
+    100082: Hand4
+    100084: Leg_Low
+    100086: LegCenter_Low
+    100088: ReadyField
+    100090: Root
+    100092: //RootNode
+    100094: StartingPlayerButton
+    100096: Wall1
+    100098: Wall2
+    100100: Wall3
+    100102: Wall4
+    100104: WallPusher1
+    100106: WallPusher2
+    100108: WallPusher2_1
+    100110: WallPusher2_2
+    100112: WallPusher2_3
+    100114: WallPusher2_4
+    100116: WallPusher3
+    100118: WallPusher4
+    400000: AT_CoreLid
+    400002: AT_Innerparts
+    400004: AT_InnerSpace
+    400006: AutoTable
+    400008: Button1
+    400010: Button2
+    400012: Button3
+    400014: Button4
+    400016: Center1
+    400018: Center2
+    400020: Center3
+    400022: Center4
+    400024: CircleButton1
+    400026: CircleButton2
+    400028: Contaier3
+    400030: Container1
+    400032: Container1 1
+    400034: Container2
+    400036: Container2 1
+    400038: Container3
+    400040: Container4
+    400042: Container4 1
+    400044: Cube.004
+    400046: Cube.005
+    400048: Cube.006
+    400050: Cube.007
+    400052: Cube.008
+    400054: Cube.010
+    400056: Cube.019
+    400058: Cube.020
+    400060: Cube.022
+    400062: Cube.024
+    400064: Cube.025
+    400066: Cube.026
+    400068: Cube.028
+    400070: Cube.033
+    400072: Cube.035
+    400074: ExtendedGameButton
+    400076: Hand1
+    400078: Hand2
+    400080: Hand3
+    400082: Hand4
+    400084: Leg_Low
+    400086: LegCenter_Low
+    400088: ReadyField
+    400090: Root
+    400092: //RootNode
+    400094: StartingPlayerButton
+    400096: Wall1
+    400098: Wall2
+    400100: Wall3
+    400102: Wall4
+    400104: WallPusher1
+    400106: WallPusher2
+    400108: WallPusher2_1
+    400110: WallPusher2_2
+    400112: WallPusher2_3
+    400114: WallPusher2_4
+    400116: WallPusher3
+    400118: WallPusher4
+    2100000: InnerParts
+    2100002: AT_CoreLid
+    2100004: AT_Core_Frame
+    2100006: Material.004
+    2100008: AT_ReadyField
+    2100010: AT_Leg
+    2100012: ScoreContainer
+    2100014: AT_Movable
+    2100016: AT_Playfield
+    2100018: AT_Body
+    4300000: Cube.010
+    4300002: AT_CoreLid
+    4300004: Cube.033
+    4300006: Cube.019
+    4300008: Cube.035
+    4300010: AT_InnerSpace
+    4300012: ReadyField
+    4300014: AT_Innerparts
+    4300016: Leg_Low
+    4300018: Container4
+    4300020: Contaier3
+    4300022: Container2
+    4300024: Cube.028
+    4300026: Cube.025
+    4300028: Cube.024
+    4300030: Cube.026
+    4300032: Cube.022
+    4300034: Cube.020
+    4300036: Cube.005
+    4300038: Cube.004
+    4300040: Cube.008
+    4300042: Cube.007
+    4300044: Cube.006
+    4300046: Container1
+    4300048: LegCenter_Low
+    9500000: //RootNode
+    13700000: AT_CoreLid
+    13700002: AT_Innerparts
+    13700004: AT_InnerSpace
+    13700006: Contaier3
+    13700008: Container1
+    13700010: Container2
+    13700012: Container4
+    13700014: Cube.004
+    13700016: Cube.005
+    13700018: Cube.006
+    13700020: Cube.007
+    13700022: Cube.008
+    13700024: Cube.010
+    13700026: Cube.019
+    13700028: Cube.020
+    13700030: Cube.022
+    13700032: Cube.024
+    13700034: Cube.025
+    13700036: Cube.026
+    13700038: Cube.028
+    13700040: Cube.033
+    13700042: Cube.035
+    13700044: Leg_Low
+    13700046: LegCenter_Low
+    13700048: ReadyField
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
